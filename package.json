@@ -1,0 +1,35 @@
+{
+  "keyword": "Assassin's Creed Valhalla",
+  "slug": "assassins-creed-valhalla-eolith",
+  "game": "assassins-creed-valhalla",
+  "lang": "en",
+  "variant": "multi",
+  "variant_title": "Multi-Cheat Pack",
+  "angle": 6,
+  "short_link": "https://share.google/5uTq1KUZhqYomHGoA",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 14,
+  "anticheat": "None (single-player)",
+  "modules": [
+    "aimbot"
+  ],
+  "has_skins": false,
+  "players": 4585,
+  "keepalive": {
+    "file": ".github/workflows/update.yml",
+    "name": "Daily refresh",
+    "crons": [
+      "45 14 * * *",
+      "32 20 * * *",
+      "31 21 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s7",
+    "label": "Full instructions Full",
+    "icon": "download"
+  },
+  "files": 27,
+  "bytes": 2710786
+}
